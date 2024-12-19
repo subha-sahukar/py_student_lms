@@ -1,2 +1,2 @@
 # py_student_lms
-Student learning management system using Phython
+New project to develop and manage Student learning management system using Phython
